@@ -63,7 +63,7 @@ Description: Another project, with highlights on key features and technologies.
 ---
 
 ## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fasi30&show_icons=true&hide_border=true)
 
 ---
 
