@@ -1,7 +1,7 @@
 # Hi there, I'm [Faisal Mahmood] 👋
 I'm a passionate **.NET Developer** and **Software Architect** with over 15 years of experience designing, developing, and architecting software solutions. I specialize in Microsoft technologies and web development.
 
-![Profile Views](https://github.com/fasi30)
+![Profile Views](https://komarev.com/ghpvc/?username=fasi30&style=flat-square)
 
 ---
 
