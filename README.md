@@ -68,6 +68,6 @@ Description: Another project, with highlights on key features and technologies.
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-mahmood-2b573117/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square)](https://fmahmood.com/)
 
